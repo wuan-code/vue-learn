@@ -1,2 +1,2 @@
 export const TIMEOUT = 5000
-export const API_ROOT = 'http://laravel-vue-learn.yb/api/v1'
+export const API_ROOT = 'http://vue-learn.local/api/v1'
