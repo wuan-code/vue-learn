@@ -4,7 +4,7 @@
 ### 说明
 非常简单的一个vue2 + vuex + axios的项目，整个流程一目了然，麻雀虽小，五脏俱全，适合作为入门练习。
 主要有两个页面，主页是 lhttp://localhost:8395/(主要是实现了组件之间的数据)
-http://localhost:8395/home 是实现 vuex+axios的组件，涉及到跨域请求数据，已经注释，改成了静态的数据。
+http://localhost:8395/home 是实现 vuex+axios的组件，涉及到跨域请求数据,api接口配置在src/config.js中
 
 ### 项目运行
 ```
