@@ -17,3 +17,8 @@ npm run dev
 # 发布环境
 npm run build
 ```
+### 效果图
+![Image text](https://github.com/yaobin24/vue-learn/blob/master/static/img/1.png)
+
+![Image text](https://github.com/yaobin24/vue-learn/blob/master/static/img/2.png)
+
